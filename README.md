@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun Kumar</h1>
-<h3 align="center">A passionate Bakenddeveloper from India</h3>
+<h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="coding" src="https://tenor.com/view/programmer-rounded-edges-gif-26214286">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsarunkkumar&label=Profile%20views&color=0e75b6&style=flat" alt="itsarunkkumar" /> </p>
 
