@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **laravel, Bootstrap**
 
-- 💬 Ask me about **Laravel,Spring,Bootstrap**
+- 💬 Ask me about **Laravel,Bootstrap**
 
 - 📫 How to reach me **arunyadav79499@gmail.com**
 <h3 align="left">Connect with me:</h3>
