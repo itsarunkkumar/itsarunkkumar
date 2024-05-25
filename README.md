@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Hr Management**
 
-- 🌱 I’m currently learning **laravel, Spring, Bootstrap**
+- 🌱 I’m currently learning **laravel, Bootstrap**
 
 - 💬 Ask me about **Laravel,Spring,Bootstrap**
 
