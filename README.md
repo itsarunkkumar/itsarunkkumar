@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/thearunkumay" target="blank"><img src="https://img.shields.io/twitter/follow/thearunkumay?logo=twitter&style=for-the-badge" alt="thearunkumay" /></a> </p>
 
-- 🔭 I’m currently working on **Hr Management**
+- 🔭 I’m currently working on **School Management System**
 
-- 🌱 I’m currently learning **laravel, Bootstrap**
+- 🌱 I’m currently learning **laravel, Bootstrap, Next js**
 
-- 💬 Ask me about **Laravel,Bootstrap**
+- 💬 Ask me about **Laravel,Bootstrap,Ajaz, Javascript**
 
 - 📫 How to reach me **arunyadav79499@gmail.com**
 <h3 align="left">Connect with me:</h3>
