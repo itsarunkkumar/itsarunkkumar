@@ -11,7 +11,7 @@
 - 🔭 Currently working with **PHP | Laravel | JavaScript | MySQL**  
 - 🌱 Exploring **REST APIs, Node.js, and Cloud Deployment**  
 - 💬 Ask me about **PHP, Laravel, JavaScript, MySQL**  
-- 📫 Reach me at: **your.email@example.com**  
+- 📫 Reach me at: **arunkumarcse000@gmail.com**  
 
 ---
 
@@ -30,28 +30,28 @@
 
 ### 📊 GitHub Stats  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArunKumarCSE&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArunKumarCSE&theme=radical" alt="GitHub streak stats" />
 </p>
 
 ---
 
 ### 🏆 Achievements & Badges  
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=darkhub&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ArunKumarCSE&theme=darkhub&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 ---
 
 ### 📫 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="blank">
+  <a href="https://www.linkedin.com/in/arun-kumar-5a45a6214/" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:arunkumarcse000@gmail.com">
     <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="gmail"/>
   </a>
 </p>
