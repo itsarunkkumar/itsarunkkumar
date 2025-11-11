@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **laravel, Bootstrap, Next js**
 
-- 💬 Ask me about **Laravel,Bootstrap,Ajax, Javascript, Next js**
+- 💬 Ask me about **Laravel,React JS, Node js,Ajax, Javascript, Next js**
 
 - 📫 How to reach me **arunyadav79499@gmail.com**
 <h3 align="left">Connect with me:</h3>
